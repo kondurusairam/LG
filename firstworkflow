@@ -1,0 +1,9 @@
+name : first_workflow
+on : workflow_dispatch
+jobs: 
+     first-job
+     name : 
+     run-on : ubuntu latest
+     steps:
+          name : print welcome to GhActions 
+          run :  echo "GithubActions"
