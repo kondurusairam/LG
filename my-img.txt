@@ -1,0 +1,17 @@
+<html>
+<head>
+<body>
+<h1>Welcome to myhome</h1>
+<style>
+body {
+background-image:  url('https://th.bing.com/th/id/OIP.GUGFi9O9CfIG2uZEIqunIQHaEK?w=321&h=180&c=7&r=0&o=5&dpr=1.8&pid=1.7');
+background-repeat: no-repeat ;
+background-attachment: fixed;
+background-size: 100% 100% ;
+}
+</style>
+</body>
+</html>
+
+
+https://th.bing.com/th/id/OIP.EpwJHNXiZhcz7BU32xd_lwHaFO?w=189&h=181&c=7&r=0&o=5&dpr=1.8&pid=1.7
